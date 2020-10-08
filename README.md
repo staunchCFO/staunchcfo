@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Mechanical ENgineering at University of Port-Harcourt Rivers.
+- 🎓 &nbsp; Studied Mechanical Engineering at Rivers State University Port-Harcourt.
 - 💼 &nbsp; Working as a Software Development Associate at Ace-Africa.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence, Cyber Security.
 - ✍️ &nbsp; Pursuing Graphic Design and Video Editing as hobbies/side hustles.
