@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://www.staunchcfo.github.io/portfolio.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.staunchcfo.github.io/portfolio.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/emeka-okezie-3a811857/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/emeka-okezie-3a811857/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emeka%20Okezie%20Staunch-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/staunchCFO/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-staunchCFO__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:okezieemeka36@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-okezieemeka949@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
